@@ -2,7 +2,7 @@
 contains 4 homeworks that I did in the introduction to deep learning class.
 All homeworks directory include description which is .pdf file.
 
-- HW-1 : Fundamental operations about image processing like flipping,rotating and resizing is coded. I didn't use present function. 
+- HW-1 : Fundamental operations about image processing like flipping,rotating and resizing is coded. I didn't use present functions. 
 I wrote my functions.
 
 - HW-2 : Cannon and Cellphone are detected using Perceptron Algorithm in this homework.
